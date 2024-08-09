@@ -1,0 +1,185 @@
+Sr,Description,Qty,Date,Supplier,Main,Lab,Amount,Product_Type,Remarks
+1,Epson Dot Matrix Printer,2.0,31-01-2007,RNT,8,3,17300,Printer,Installed in FE Lab
+2,Windows Vista Business Upgrade,50.0,03-06-2007,RNT,9,10,143500,Upgrade,Kept in software cupboard for entire college
+3,MS Visio Professional,1.0,03-02-2007,LDS,12,3,4750,Software,HOD Cabin Cupboard
+4,Windows Vista Business Upgrade,20.0,02-05-2007,LDS,13,4,21381,Software,HOD Cabin Cupboard
+5,Turbo Assembler TASM,2.0,03-05-2007,LDS,14,6,5512,Software,HOD Cabin Cupboard
+6,Epson Dot Matrix Printer,1.0,20-12-2007,AXI,16,3,6900,Printer,At ground floor FELAB
+7,Desktop (HP DX 2080 E4500),20.0,01-05-2008,RNT,18,5,265000,Desktop,Dr.Rathod (ETRX)
+8,Desktop (HP DX 2080 E4500),3.0,01-08-2008,RNT,18,5,79500,Desktop,Dr.Y.S.Rao Sir
+9,Desktop (HP DX 2080 E4500),1.0,01-08-2008,RNT,18,5,26500,Desktop,SPIT Library
+10,Desktops: Dell Optilex 755 DT,10.0,15-11-2008,RNT,20,4,266000,Desktop,Dr.Y.S.Rao
+11,TFT Monitor,8.0,15-11-2008,RNT,20,4,45000,Monitor,Room-607A Cupboard
+12,Hard Disk 500 GB Seagate,1.0,12-04-2008,AXI,24,10,1500,Hard Disk,Dynamic Cupboard
+13,D-Link 24 Port Switch 10/100,1.0,12-04-2008,AXI,26,3,1500,Switch,Issue by Sanjay Dharpawar
+14,Graphics Accelerators Card 512 MB,2.0,12-04-2008,AXI,27,3,2000,Graphics Card,HOD Cabin Cupboard
+15,Epson Multimedia Projector,1.0,10-08-2009,ADV,29,3,42000,Projector,Hanged on Ceiling Room603
+16,LaserJet Printer (B/W) Cannon LBP 2900 B,1.0,28-10-2009,FXT,31,4,5725,Printer,Complab4
+17,LaserJet Printer (B/W) Cannon LBP 2900 B,1.0,28-10-2009,FXT,31,6,5725,Printer,Complab6
+18,VB.Net VS Pro 2008 Academic,5.0,11-01-2009,INT,35,10,21996,Software,Room-604
+19,Cannon LBP2900B Laser Printer,1.0,25-11-2010,RNT,36,1,6100,Printer,Shifted in Lab-1
+20,Intel i-5 650 CPU,3.0,25-11-2010,RNT,10,1,255752,CPU,Lab 1 
+21,DELL Desktop,19.0,17-10-2011,RNT,40,1,484500,Desktop,Lab-1 (Room=607A) =15Nos
+22,Canon LBP 2900 Laser Printer,1.0,11-08-2011,RNT,42,7,5775,Printer,Lab -7 = 01 No.
+23,Canon LBP 2900 Laser Printer,1.0,11-08-2011,RNT,42,2,5775,Printer,Lab -2 = 01 No.
+24,Canon LBP 2900 Laser Printer,1.0,11-08-2011,RNT,42,3,5775,Printer,Lab-3 = 01 No.
+25,Canon LBP 2900 Laser Printer,1.0,11-08-2011,RNT,42,3,5775,Printer,Initially installed in Lab -5 = 01 No.
+26,Java Builder Professional R2,5.0,04-10-2012,LDS,44,3,12742,Software,Room-604 In software cupboard
+27,MS Windows Professional -7,7.0,01-05-2012,LDS,45,5,69872,Software,Room-604 In software cupboard
+28,Canon LBP 2900B Laser Printer,1.0,29-10-2012,PHX,46,10,6300,Printer,New Entries starts for year2013
+29,Canon LBP 2900B Laser Printer,1.0,29-10-2012,PHX,46,10,6300,Printer,New Entries starts for year2013
+30,Canon LBP 2900B Laser Printer,1.0,29-10-2012,PHX,46,10,6300,Printer,New Entries starts for year2013
+31,HP Mini Desktop,1.0,30-10-2012,PNT,47,10,18000,Desktop,In Room=604 HOD cabin kept in sirÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs Cupboard for NBA presentation.
+32,HP Desktop PRO 3330M,18.0,12-03-2012,PNT,48,7,477000,Desktop,For ME students Room 603
+33,Oracle 11G License,10.0,12-07-2012,LDS,49,10,149386,Software,Room-604 In software cupboard
+34,DELL Power Edge T320,1.0,13-11-2013,DEL,50,7,150000,Server,LAB7
+35,NETSIM ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Network Simulator,10.0,12-03-2013,TSC,51,7,227976,Software,Kept in HOD cabin Ssoftware cupboard
+36,DELL Desktop,5.0,31-12-2013,RNT,53,10,142963,Desktop,IIC Lab(Room-604)
+37,DELL Desktop,1.0,31-12-2013,RNT,53,10,28593,Desktop,Prof.A.A.Godbole
+38,DELL Desktop,2.0,31-12-2013,RNT,53,10,57185,Desktop,Prof.Natasha Raul
+39,DELL Desktop,4.0,31-12-2013,RNT,53,10,114370,Desktop,Dr.Y.S.Rao(3rd floor Lab)
+40,DELL Desktop,6.0,31-12-2013,RNT,54,10,276000,Desktop,IIC LAB (Room-604)
+41,DELL Desktop,1.0,31-12-2013,RNT,54,10,46000,Desktop,Issued to Dr.Surendra Rathod sir in Room=303
+42,DELL Desktop,1.0,31-12-2013,RNT,54,10,46000,Desktop,Room-604 HOD Cabin Dr.D.R.Kalbande
+43,DELL Desktop,1.0,31-12-2013,RNT,54,10,46000,Desktop,Dr.Y.S.Rao (3rd floor Lab)
+44,HP Laser jet 1020 plus printer,1.0,01-03-2014,RNT,55,10,6619,Printer,IIC Lab Room=604
+45,HP Laser jet 1136 All in one printer,1.0,01-03-2014,RNT,55,10,9761,Printer,HOD cabin
+46,Epson EB-X11 Multimedia projector,1.0,01-03-2014,RNT,55,10,30222,Projector,Now shifted to TECOMP CLASS ROOM
+47,Service Tax,,01-03-2014,RNT,55,10,8374,Service,Now shifted to TECOMP CLASS ROOM
+48,BENQ LED Backlight Monitor,10.0,01-07-2014,RNT,56,3,56500,Monitor,Install with ACER OLD Desktop Computer
+49,HP Laserjet 1020 Printer,1.0,03-04-2014,RNT,57,1,6950,Printer,Lab1.
+50,HP Laserjet 1020 Printer,1.0,03-04-2014,RNT,57,5,6950,Printer,Room 606
+51,HP Laserjet 1020 Printer,1.0,03-04-2014,RNT,57,6,6950,Printer,Room 608
+52,"Apple IMAC 27""",1.0,27-09-2014,FSN,58,7,528590,Computer,Room 604
+53,Apple Care Protection Plan,1.0,27-09-2014,FSN,59,7,36410,Software,Room 604
+54,DELL Optiplex Desktop,1.0,10-08-2014,RNT,60,4,588000,Desktop,Room 606
+55,DELL Optiplex Desktop,1.0,10-08-2014,RNT,60,5,294000,Desktop,Room 606
+56,DELL Optiplex Desktop,1.0,10-08-2014,RNT,61,5,207000,Desktop,Room 604
+57,ASUS Laptop,1.0,17-10-2014,RNT,62,5,41000,Laptop,Dynamic
+58,Laserjet Printer,1.0,17-10-2014,RNT,63,4,7000,Printer,Lab-4
+59,Laserjet Printer,1.0,17-10-2014,RNT,63,7,7000,Printer,Lab-7
+60,Laserjet Printer,1.0,17-10-2014,RNT,63,2,7000,Printer,Lab-2
+61,Laserjet Printer,1.0,17-10-2014,RNT,63,10,7000,Printer,Room 607A
+62,HP M1136 Laserjet Printer,1.0,10-09-2014,RNT,64,7,10000,Printer,Admin
+63,HP M1136 Laserjet Printer,1.0,10-09-2014,RNT,64,7,10000,Printer,Room 607A
+64,Epson Multimedia Projector,1.0,10-09-2014,RNT,65,4,33000,Projector,Room 606
+65,Epson Multimedia Projector,1.0,10-09-2014,RNT,65,1,33000,Projector,Room 601
+66,8 Port Gigabit Unmanaged Switch,1.0,17-10-2014,RNT,66,7,1700,Switch,Room 604
+67,Blue Ray Writer USB,3.0,10-08-2014,RNT,67,10,6700,Writer,Dynamic
+68,MS Windows 8.1 OEM,10.0,10-08-2014,RNT,68,5,58000,Software,Software
+69,Oracle 11g STD Edition One License,10.0,16-01-2015,LDS,69,5,100281,Software,Software
+70,Epson Business Projector,1.0,16-09-2015,SLT,70,6,31300,Projector,Room 608
+71,Epson Business Projector,1.0,16-09-2015,SLT,70,10,31300,Projector,Room 609
+72,HP Laserjet M1136 MFP Printer,1.0,16-09-2015,SLT,71,10,9650,Printer,Room 604
+73,Dlink 24 Port Switch,1.0,16-09-2015,SLT,72,10,5250,Switch,Room 604
+74,PCS WA 320 Portable Meeting Amplifier,2.0,25-09-2015,EE,73,10,19600,Amplifier,Room 608
+75,Access Point Dlink DAP 2690 WiFi,1.0,13-10-2015,SLT,74,2,16500,Access Point,Room 602
+76,Access Point Dlink DAP 2690 WiFi,1.0,13-10-2015,SLT,74,4,16500,Access Point,Outside Lab4
+77,ACER VERITON Desktop,10.0,21-10-2015,DIS,75,5,275573,Desktop,Room 606
+78,ACER VERITON Desktop,20.0,21-10-2015,DIS,75,6,551144,Desktop,Room 608
+79,DELL Power Edge T320 Server,2.0,15-10-2015,RNT,76,4,320000,Server,Room 606
+80,Panache Air PC,2.0,16-10-2015,RNT,77,10,22000,PC,Dynamic
+81,Acer Laptop - Travelmate,1.0,21-10-2015,DIS,78,10,28596,Laptop,Room 604
+82,Matlab Simulink,1.0,20-10-2015,ADCC,79,6,148456,Software,EXTX Department has Licensed on Server Software
+83,GSM Modem SIM 900A,6.0,13-01-2016,ELT,80,2,180000,Hardware,Dynamic
+84,R & D Kit,1.0,21-01-2016,OPBCI,81,1,70359,Kit,Dynamic
+85,Ultra Cortex EEG Headset Kit,1.0,21-01-2016,OPBCI,82,1,43579,Kit,Dynamic
+86,RAM - 4GB DDR3,40.0,28-03-2016,SLT,83,1,54476,RAM,Lab1
+87,RAM - 4GB DDR3,36.0,28-03-2016,SLT,83,3,58285,RAM,Lab3
+88,RAM - 4GB DDR3,18.0,28-03-2016,SLT,83,7,31377,RAM,Lab7
+89,Microsoft Office 2016,2.0,10-06-2016,SLT,84,10,35000,Software,Software
+90,Electro Magnetic Lock,2.0,10-04-2016,AMZN,85,1,3700,Hardware,Dynamic
+91,Raspberry Pi 3 ModB,3.0,10-10-2016,E14,86,10,9495,Hardware,Dynamic
+92,HP Laserjet 1020+ Printer,3.0,20-10-2016,RNT,87,10,25800,Sensor,Dr.S.N.Dhage (Room-604)
+93,Epson L220 Ink tank Printer,2.0,20-10-2016,RNT,87,10,20400,Desktop,Dr.S.N.Dhage (Room-604)
+94,Xbox One Kineet Sensor,1.0,20-10-2016,CTIL,88,10,11490,Sensor,Dynamic
+95,TPLink Cloud Camera,1.0,20-10-2016,CNC,89,10,2525,Camera,Dynamic
+96,TMS320F28335T Trainer,4.0,20-10-2016,ELT,90,10,158900,Trainer,Dynamic
+97,TMS320F28335T Trainer,2.0,20-10-2016,ELT,90,10,94450,Trainer,Dynamic
+98,Sensor Interface,6.0,20-10-2016,ELT,90,10,36000,Interface,Dynamic
+99,Acer Veriton M200-H110/1,10.0,12-02-2016,RNT,91,3,348150,Desktop,Lab3=10Nos
+100,Acer Veriton M200-H110/1,5.0,12-02-2016,RNT,91,10,174075,Desktop,"IIC Lab=4Nos, Room=604, Exam=1Nos, RESEARCH FACILITY LAB"
+101,Acer Veriton M200-H110/1,5.0,12-02-2016,RNT,91,10,174075,Desktop,"Dr.D.R.Kalbande=1Nos, Dr.S.N.Dhage=1Nos, Dr.A.N.Nimkar=1Nos, Prof.S.R.Dholay=1Nos, Prof.Kiran Gawande=1Nos"
+102,Intel Core-I3 500U,3.0,12-02-2016,RNT,92,3,102000,Processor,"Dr.D.R.Kalbande=1Nos, Dr.S.N.Dhage=1Nos, Dr.A.N.Nimkar=1Nos"
+103,Logitech Webcam With MIC,2.0,01-04-2017,RNT,93,10,2400,Webcam,"Dynamic, Verify?? Nimkar=1No"
+104,Wireless Sensor Network,6.0,15-12-2017,REN,94,2,256500,Network,Dynamic
+105,Spartan-3 FPGA MSP,10.0,15-12-2017,REN,95,1,281250,FPGA,Dynamic
+106,Desktop Computer,17.0,01-05-2018,DNS,1,2,661980,Desktop,Lab2=16No + Mr.Nalawade has only CPU Cabine Room-606 MYSQL=1No)
+107,Desktop Computer,7.0,01-05-2018,DNS,1,2,272580,Desktop,Professors
+108,Desktop Computer,6.0,01-05-2018,DNS,1,8,233640,Desktop,"Issued to Mr.Bhavesh Nawale, Room=702"
+109,"Raspberry PI-3, ESP 8266 Node MCU, Sensors",10.0,16-01-2018,IVT,2,10,241900,Raspberry,Actually in Big Cupboard in Room-608 
+110,Desktop Computer,4.0,01-10-2018,DNS,3,6,351640,Desktop,In Room=608 
+111,Laptop,3.0,01-09-2018,DNS,4,10,94306,Laptop,Professors
+112,LPC 2148 ARM Trainer Kit,10.0,08-06-2018,IVT,5,6,176292,Trainer,Room=606 
+113,Ethernet Switch,1.0,02-11-2019,SLT,6,7,4900,Switch,Actually in Big Cupboard in Room-608 
+114,Network Switch,1.0,02-11-2019,SLT,6,7,9300,Switch,Actually in Big Cupboard in Room-608 
+115,Printer Laserjet HP-1136,1.0,02-11-2019,SLT,6,6,12390,Printer,Room=608 
+116,Printer Laserjet HP-1136,1.0,02-11-2019,SLT,6,7,12390,Printer,Actually issued to Dr.S.N.Dhage Sir
+117,Printer Laserjet 1020,1.0,02-11-2019,SLT,6,1,10974,Printer,4Nos Issued to Dr.D.R.Kalbande=1No for IIC Activity & Dean
+118,Printer Laserjet 1020,1.0,02-11-2019,SLT,6,2,10974,Printer,4Nos Issued to Dr.Preeti Jani =1No
+119,Printer Laserjet 1020,1.0,02-11-2019,SLT,6,3,10974,Printer,4Nos Issued to Faculty Room=607B
+120,Printer Laserjet 1020,1.0,02-11-2019,SLT,6,4,10974,Printer,608 =4Nos
+121,Printer Laserjet 1020,1.0,02-11-2019,SLT,6,5,10974,Desktop,Room=607B for Common Printing facility=1No
+122,Desktop Computer,20.0,02-01-2019,HPI,7,9,907821,Desktop,Mr.Bhavesh Nawale Room=702 =20Nos
+123,Desktop Computer,5.0,30-01-2019,HPI,8,2,202665,Desktop,Room=603 Lab-2=3Nos Lab2 Projector=1No Lab3 Projector=1No
+124,Laptop,3.0,02-08-2019,DNS,9,6,116728,Laptop,Room-608
+125,Desktop Computer,1.0,21-02-2019,DNS,10,10,54091,Desktop,Installed in IIC Cell 
+126,Casio XJ VI LED Projector,1.0,03-01-2019,TTT,11,2,45760,Projector,Room=608
+127,Casio XJ VI LED Projector,1.0,03-01-2019,TTT,11,6,45760,Projector,Room=608
+128,Casio XJ VI LED Projector,1.0,03-01-2019,TTT,11,10,45760,Projector,Installed in IIC Cell
+129,Wi-Fi Dongle,1.0,03-01-2019,,11,10,3960,Wi-Fi,Dr.D.R.Kalbande
+130,Programmable Drone With Camera,2.0,28-01-2019,IVT,12,10,29200,Drone,Room=608
+131,Smart TV,1.0,03-02-2020,TTT,13,10,37760,TV,Installed Room-310 
+132,Desktop Computer,5.0,03-04-2020,TPT,14,7,209000,Desktop,Lab-7
+133,Printer HP LaserJet1020,3.0,16-03-2020,SLT,15,10,32745,Printer,lab 8
+134,Printer HPLJ M1136,1.0,16-03-2020,SLT,10,10,12980,Printer,lab 6
+135,G Suite,50.0,13-01-2021,SCS,17,10,177000,Suite,lab 5
+136,Laptop Lenovo E14,13.0,05-06-2021,TPT,18,10,496454,Laptop,Lab7=3
+137,Matlab Campus wide Suit,1.0,04-05-2021,DTS,19,8,598200,Matlab,Lab-8
+138,Embedded and IOT Interfaces testing Platform,20.0,06-05-2021,EMT,20,10,224200,Platform,Issued to Mr.Mukund Pawar 
+139,Desktop Computer Lenovo Thnink Center,20.0,30-03-2022,TPT,21,1,990694,Desktop,Lab-1 (Room-607B)
+140,HP Laserjet 108A Printer,5.0,30-03-2022,SLT,22,10,59000,Printer,Lab-11=2Nos Lab-2=1Nos Lab-7=1No Lab-6=1Nos
+141,Senses Intelligent Panel-65ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,1.0,29-03-2022,MLI,23,10,142072,Panel,Installed in SECOMP Class (Room-609)
+142,Superset-Insuite [Lite],400.0,19-09-2022,WBI,24,10,59000,Superset,Lab 11
+143,ARM LPC 2148 Piggy back board,40.0,14-07-2018,EMT,25,10,220000,Board,Issued to Mr.Mukund Pawar and Mrs.Kirti More 
+144,Turnita Software,1.0,30-09-2018,TIP,26,10,625581,Software,Software not received
+145,Desktop Computer Lenovo Thinkcenter,14.0,17-02-2023,TPT,27,7,726715,Desktop,Lab-7=13No Lab3=1No
+146,Desktop Computer Lenovo Thinkcenter,9.0,17-02-2023,TPT,28,3,467174,Desktop,Lab-3
+147,Servo Stabilizer,1.0,26-02-2001,RNT,125,5,14700,Stabilizer,Complab5=1No Room-606
+148,Servo Stabilizer,1.0,26-02-2001,RNT,125,6,14700,Stabilizer,Complab6=1no Room-608
+149,Microsoft Office XP SBE,1.0,19-12-2002,MCI,189,3,9700,Software,Stock =1No Room-604 Software cupboard Software
+150,MS SQL Server,1.0,18-02-2003,TSG,199,4,38500,Software,Room-604 Software cupboard Software
+151,Turbo C++,1.0,18-02-2003,TSG,199,5,3500,Software,Room-604 Software cupboard Software
+152,Oracle 9i,1.0,24-01-2003,MCI,203,4,64700,Software,Room-604 Software cupboard Software
+153,Pentium IV Systems,20.0,03-10-2003,DSS,212,3,540000,Desktop,FE Lab=20no Mrs.Karuna Ground floor Permanent Transfer
+154,TK Solver Release 5.0,1.0,22-03-2004,SYN,277,5,24400,Software,Room-604 Software cupboard Software
+155,Corel Draw Graphics Suite,1.0,23-03-2004,TIN,291,5,5690,Software,Room-604 Software cupboard Software
+156,Adobe Acrobat 6.0 Pro Edition,1.0,23-03-2004,TIN,293,5,6250,Software,Room-604 Software cupboard Software
+157,MS Office 2003 Prof. MOLP NL AE,1.0,31-03-2004,LDS,297,3,14500,Software,Room-604 Software cupboard Software
+158,MS Windows XP Prof. MOPL NL AE,4.0,31-03-2004,LDS,298,2,15800,Software,Room-604 Software cupboard Software
+159,MS Windows 2003 SERV CAL MOLP NL AE,1.0,31-03-2004,LDS,299,3,22000,Software,Room-604 Software cupboard Software
+160,Oracle 9i STD Edition,1.0,31-03-2004,LDS,302,4,50000,Software,Room-604 Software cupboard Software
+161,Oracle 9i for Linux,1.0,15-04-2004,LDS,314,4,50000,Software,Room-604 Software cupboard Software
+162,Computer Based Tutorial - I,18.0,05-10-2004,MAS,320,6,4936,Software,Issued to Computer Dept Library Software
+163,Computer Based Tutorial - II,14.0,05-10-2004,MAS,321,6,4789,Software,Issued to Computer Dept Library Software
+164,E-scanner PC Based Biometric Finger Print Device,1.0,24-09-2004,ATP,322,1,17295,Device,Kept in Big cupboard in Room-603 Dynamic
+165,Computer Based Tutorial -III,11.0,29-09-2004,MAS,325,6,3479,Software,Issued to Computer Dept Library Software
+166,Pentium IV Computer,1.0,10-04-2004,BCS,327,3,24500,Desktop,Transferred to SPIT Office for Notice Display at college entrance as per Dr.Prachi Gharpure & Dr.D.R.KalbandeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs instruction =1Nos On date 11/01/2013 Permanent Transfer
+167,LQ-1150 Dot Matrix Printer,1.0,10-04-2004,BCS,329,3,13250,Printer,FELAB Mrs.Karuna Permanent Transfer
+168,Lan Tester RJ45 Connector,2.0,25-11-2004,KYT,330,2,2100,Tool,Nandkumar=1No Nalawade=1No Dynamic
+169,10KVA Stabilizer,1.0,25-10-2004,BCS,331,2,11000,Stabilizer,Complab2=1No Room=602 Interchanged with Lab3
+170,D- Link 8 Port Switch,1.0,15-12-2004,RTL,335,2,1900,Switch,In Room 602 Rack
+171,Switch 24 port D-Link,1.0,10-08-2004,LNT,342,3,9672,Switch,Complab3 Rack Was transferred from ground floor project lab Central cabling Room=603 Tranferred to Mrs.Karuna FELAB=1No Permanent Transfer
+172,Computer Based Tutorial CDs,14.0,16-11-2004,MAS,345,10,350,Software,Departmental Library Software
+173,10KVA Stabiliser,1.0,08-04-2005,BCS,355,4,11812,Stabilizer,Complab4=1No Room=606
+174,Acer Notbook 311XCI,1.0,15-02-2006,RTL,372,10,82900,Laptop,Prof.Prachi Gharpure =1 no. Admin
+175,Windows XP Professinal,4.0,02-06-2006,AXI,373,6,22884,Software,In HOD Software cupboard Software
+176,802.11g Netgear Wg 311 T,2.0,02-06-2006,AXI,373,3,4550,Network,Kept in Big cupboard Room 603 Dynamic
+177,802.11 Cards,1.0,02-06-2006,AXI,373,3,1490,Network,Kept in Big cupboard Room 603 Dynamic
+178,802.11 Cards,1.0,02-06-2006,AXI,373,3,1490,Network,Kept in Big cupboard Room 603 Dynamic
+179,802.11 Cards,1.0,02-06-2006,AXI,373,3,1490,Network,Printer Computer room=603 Dynamic
+180,Fluke 110 Multi meter,1.0,20-02-2006,AXI,374,4,8320,Device,Mr. Nalawade
+181,Fingerprint Based Time & Attendance System,1.0,02-12-2006,CIS,385,1,24900,System,Dynamic Stock Actually installed In SPIT Unaided office Permanent Transfer
+182,RGB Cable,2.0,25-09-2006,ACS,405,1,2454,Cable,Installed in TPO Conference Hall Permanent Transfer
+183,Projector stand,2.0,23-09-2006,MIF,406,1,2400,Stand,Installed in TPO Conference Hall Permanent Transfer
+184,Mouse,13,24-05-2024,Vishal,,702,12000,Device,

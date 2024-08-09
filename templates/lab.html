@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab {{ lab_number }}</title>
+    <!-- Include Plotly CDN -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <h1>Product Type Counts for Lab {{ lab_number }}</h1>
+    <!-- Plotly Graph -->
+    <div id="plot">{{ plot_div | safe }}</div>
+    <button onclick="window.open('/','_blank')">Home</button>
+
+    <!-- Lab Selection Form -->
+    <form action="{{ url_for('lab') }}" method="post">
+        <label for="lab">Select Lab:</label>
+        <select name="lab" id="lab">
+            {% for option in lab_options %}
+            <option value="{{ option }}">{{ option }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+    </form>
+
+        <!-- Include the pie chart -->
+        <div id="pie_chart">
+            <h2>Pie Chart: Amounts (in Rs.) vs Product Type for Lab {{ lab_number }}</h2>
+            {{ pie_chart | safe }}
+        </div>
+</body>
+
+</html>

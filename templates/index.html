@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <!-- Include Plotly CDN -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <center><h1>Data Visualization</h1></center>
+
+
+    <!-- Add Admin Page Button -->
+    <button><a href="{{ url_for('admin') }}" class="btn btn-primary mt-3">Admin Page</a></button>
+
+
+    <!-- Amount Invested Every Year -->
+    <div id="amount_invested">
+        <h3><b>1.</b></h3>
+        <h2>Amount Invested Every Year</h2>
+        <div id="plot">{{ plot_div | safe }}</div>
+    </div>
+
+    <!-- Total Number of Items in Each Lab (Plotly Graph) -->
+    <div id="lab_counts_plotly">
+        {% if lab_counts_graph %}
+        <h2>Total Number of Items in Each Lab</h2>
+        <div id="lab_plotly">{{ lab_counts_graph | safe }}</div>
+        {% else %}
+        <p>No data found for the specified product types.</p>
+        {% endif %}
+    </div>
+
+    <!-- Total Number of Items in Each Lab (Matplotlib Image) -->
+    <div id="lab_counts_matplotlib">
+        {% if matplot_img %}
+        <h2>Total Number of Items in Each Lab (Matplotlib)</h2>
+        <img src="data:image/png;base64,{{ matplot_img }}" alt="Bar Chart">
+        <!-- {% else %}
+        <p>No data found for the specified product types.</p> -->
+        {% endif %}
+    </div>
+
+    <!-- Lab Selection Form -->
+    <form action="{{ url_for('lab') }}" method="post">
+        <label for="lab">Select Lab:</label>
+        <select name="lab" id="lab">
+            {% for option in lab_options %}
+            <option value="{{ option }}">{{ option }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+    </form>
+
+        <!-- Include the pie chart -->
+        <div id="pie_chart">
+            <h2>Pie Chart: Amounts (in Rs.) vs Product Type</h2>
+            {{ pie_chart | safe }}
+        </div>
+
+    
+
+</body>
+
+</html>
